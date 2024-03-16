@@ -1,4 +1,3 @@
--Complete code has been written scratch. not a single piece of code has been taken from anywhere
 -If test cases fail, please run again one more time. Sometimes unexpected errors comes like internet outage
 -If home page asks for captcha few times, please wait, it will run
 -If captcha is being asked again again and again then please open amazon.in once manually and enter captcha then try again running the test cases
